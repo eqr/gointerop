@@ -1,0 +1,5 @@
+libgo*
+bin/*
+obj/*
+.vscode/*
+output/*
